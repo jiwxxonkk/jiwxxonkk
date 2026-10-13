@@ -13,8 +13,8 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/ROS1-3776AB?style=plastic&logo=ROS1&logoColor=white">
-          <img src="https://img.shields.io/badge/ROS2-FCC624?style=plastic&logo=ROS2&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/ROS 1-00599C?style=plastic&logo=ROS&logoColor=white">
+          <img src="https://img.shields.io/badge/ROS 2-3776AB?style=plastic&logo=ROS&logoColor=white">
           </div>
     </div>
     <div align= "center">
